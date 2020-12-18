@@ -1,0 +1,4 @@
+Collecting numpy
+  Downloading numpy-1.19.4-cp38-cp38-macosx_10_9_x86_64.whl (15.3 MB)
+Installing collected packages: numpy
+Successfully installed numpy-1.19.4
